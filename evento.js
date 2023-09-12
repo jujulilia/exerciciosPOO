@@ -9,7 +9,6 @@ class Evento {
 class Agenda {
     constructor() {
         this.eventos = [];
-        this.removendo = [];
     }
     adicionarEventos(evento) {
         this.eventos.push(evento);

@@ -12,8 +12,6 @@ class Evento{
 
 class Agenda{
     eventos: Evento[] = [];
-    removendo:Evento[] = [];
-
     constructor(){
 
     }
